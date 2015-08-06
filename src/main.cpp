@@ -57,8 +57,8 @@ int main() {
 
 		cvWaitKey(1);
 
-		cvReleaseImage(&dst);
 		cvReleaseImage(&und);
+		cvReleaseImage(&fin);
 	}
 
 	// release all
