@@ -2,7 +2,8 @@
  * CamCalib.h
  *
  *  Created on: Aug 5, 2015
- *      Author: east0822
+ *      Author: Dongho Kang
+ *       Email: east0822@gmail.com
  */
 
 #ifndef SRC_CAMCALIB_H_

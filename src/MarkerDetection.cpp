@@ -1,13 +1,12 @@
 /*
- * MarkDetection.cpp
+ * MarkerDetection.cpp
  *
  *  Created on: Aug 5, 2015
- *      Author: east0822
+ *      Author: Dongho Kang
+ *       Email: east0822@gmail.com
  */
-#include "MarkDetection.h"
 
-// #include <Eigen/Dense>
-// using Eigen::MatrixXd;
+#include "MarkerDetection.h"
 
 CMarkerDetection::CMarkerDetection (float marker_width, float marker_height)
 : _marker_width(marker_width), _marker_height(marker_height) // This is initialization list

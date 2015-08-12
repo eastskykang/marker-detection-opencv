@@ -1,8 +1,9 @@
 /*
- * main.cpp
+ * MarkerDetectionExample.cpp
  *
  *  Created on: Aug 5, 2015
- *      Author: east0822
+ *      Author: Dongho Kang
+ *       Email: east0822@gmail.com
  */
 
 #include <opencv/cv.h>
@@ -10,7 +11,8 @@
 #include <opencv/highgui.h>
 #include <opencv2/opencv.hpp>
 #include <opencv2/legacy/legacy.hpp>
-#include "MarkDetection.h"
+
+#include "MarkerDetection.h"
 
 CMarkerDetection *_markRecog;
 CvCapture* _capture;

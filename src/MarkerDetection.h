@@ -1,12 +1,13 @@
 /*
- * MarkDetection.h
+ * MarkerDetection.h
  *
  *  Created on: Aug 5, 2015
- *      Author: east0822
+ *      Author: Dongho Kang
+ *       Email: east0822@gmail.com
  */
 
-#ifndef SRC_MARKDETECTION_H_
-#define SRC_MARKDETECTION_H_
+#ifndef SRC_MARKERDETECTION_H_
+#define SRC_MARKERDETECTION_H_
 
 #include <vector>
 #include <opencv/cv.h>
@@ -68,4 +69,4 @@ private:
 	CvFont _font;
 };
 
-#endif /* SRC_MARKDETECTION_H_ */
+#endif /* SRC_MARKERDETECTION_H_ */
